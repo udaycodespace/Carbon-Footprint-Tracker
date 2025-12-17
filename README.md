@@ -174,7 +174,7 @@ The **Carbon Footprint Tracker** leverages Salesforce features to solve these ch
 
 ## 🎥 Demo Video
 
-https://drive.google.com/file/d/1I52XODeufq5HMWG_oeTm2PdEQQDAwLNf/view?usp=sharing
+[https://drive.google.com/file/d/1I52XODeufq5HMWG_oeTm2PdEQQDAwLNf/view?usp=sharing](https://drive.google.com/file/d/1_tq5sqcE4iIgMsderQ1Jk-SDYqrqJ5Wc/view?usp=sharing)
 
 ---
 
